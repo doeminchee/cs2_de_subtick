@@ -10,4 +10,4 @@ NOTE!!!
   
   So when you use the alias "..." "exec ...cfg", you can still de subtick the game.
   
-  Thank you @launders for the idea of desubtick-ing the game with a cfg file as he has demonstrated in this tweet
+  Thank you @launders for the idea of desubtick-ing the game with a cfg file as he has demonstrated in his tweet
