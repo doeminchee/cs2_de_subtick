@@ -1,4 +1,4 @@
-- Download this folder and put them inside this folder location
+- Download all the files and put them inside this folder location
   <STEAM_FOLDER_LOCATION>\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\
 - Remember to replace <STEAM_FOLDER_LOCATION> with your Steam folder location
 - Add the following code to your current autoexec file
